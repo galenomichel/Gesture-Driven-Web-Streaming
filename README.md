@@ -12,7 +12,7 @@ Marque esse projeto com uma estrela 🌟
 - Este projeto foi criado usando Node.js v19.6
 
 ## Pre-reqs
-- Para testar o projeto final [clique_aqui] ()
+- Para testar o projeto final [clique_aqui] (https://galenomichel.github.io/Gesture-Driven-Web-Streaming/)
 
 ## Running
 
